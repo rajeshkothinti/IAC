@@ -1,0 +1,1 @@
+rsync -av  ${WORKSPACE}/* ${WORKSPACE}/repoA/ --exclude repoA
