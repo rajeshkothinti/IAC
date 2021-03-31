@@ -1,0 +1,7 @@
++ rsync -av /var/lib/jenkins/workspace/copying/main.tf /var/lib/jenkins/workspace/copying/repoA /var/lib/jenkins/workspace/copying/repoA@tmp /var/lib/jenkins/workspace/copying/test.txxt /var/lib/jenkins/workspace/copying/variables.tf /var/lib/jenkins/workspace/copying/repoA/ --exclude repoA
+sending incremental file list
+main.tf
+test.txxt
+variables.tf
+repoA@tmp/
+repoA@tmp/durable-92a0fac0/
