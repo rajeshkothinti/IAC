@@ -1,8 +1,0 @@
-+ git remote set-url origin git@github.com:kRajr/IAC.git
-+ git add -A .
-+ git stash
-Saved working directory and index state WIP on (no branch): 0013517 test
-HEAD is now at 0013517 test
-+ git pull git@github.com:kRajr/IAC.git test
-shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
-fatal: Unable to read current working directory: No such file or directory
